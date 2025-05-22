@@ -1,0 +1,77 @@
+# UI Portfolio - Ezekiel Lokeru
+
+A modern, responsive personal portfolio website for Ezekiel Lokeru, showcasing web development, app development, photography, and design skills.
+
+## Features
+
+- **Hero Section:** Introduction with call-to-action buttons.
+- **Profile Section:** Bio, contact info, and social links.
+- **Services:** Cards describing offered services.
+- **Skills:** Progress bars for featured skills.
+- **Features Section:** Highlights of expertise and an image.
+- **Stats:** Key numbers (projects, hours, support, customers).
+- **Portfolio Gallery:** Clickable image gallery with popup viewer.
+- **Footer:** Brand logos.
+
+## Technologies Used
+
+- HTML5 & CSS3 ([index.html](index.html), [styles.css](styles.css))
+- [Font Awesome](https://fontawesome.com/) for icons
+- [Google Fonts - Inter](https://fonts.google.com/specimen/Inter)
+- [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/) for image gallery popups
+- [jQuery](https://jquery.com/) for DOM manipulation
+
+## Setup & Running Locally
+
+1. **Clone or Download the Repository**
+
+   Download the project files to your local machine.
+
+2. **Project Structure**
+
+   ```
+   index.html
+   styles.css
+   images/
+     audi.png
+     benz.png
+     Ezekiel-2.png
+     Ezekiel.jpg
+     featuresimage.jpg
+     header.jpg
+     mazda.png
+     skillsimage.jpg
+     toyota.png
+     work1.jpg
+     work2.jpg
+     work3.jpg
+     work4.jpg
+     work5.jpg
+     work6.jpg
+   ```
+
+3. **Open in Browser**
+
+   Simply open `index.html` in your web browser. No build step is required.
+
+4. **Image Assets**
+
+   Ensure the `images/` folder is in the same directory as `index.html` and contains all referenced images.
+
+5. **Internet Connection**
+
+   The project uses CDN links for Font Awesome, Google Fonts, jQuery, and Magnific Popup. An internet connection is required for these resources.
+
+## Customization
+
+- **Content:** Edit `index.html` to update your name, bio, services, skills, and images.
+- **Styling:** Modify `styles.css` to change colors, layout, or fonts.
+- **Images:** Replace images in the `images/` folder with your own portfolio and branding.
+
+## License
+
+This project is for personal portfolio use. Please replace personal information and images before publishing your own version.
+
+---
+
+**Author:** Ezekiel Lokeru
